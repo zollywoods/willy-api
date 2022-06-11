@@ -1,7 +1,7 @@
 {
-    "name": "willy nilly #11",
+    "name": "willy nilly #29",
     "description": "A WillyNilly clown.",
-    "image": "https://willynillies.herokuapp.com/imgs/11",
+    "image": "https://willynillies.herokuapp.com/imgs/29",
     "attributes": [
         {
             "trait_type": "Background",
@@ -9,15 +9,15 @@
         },
         {
             "trait_type": "Shirt",
-            "value": "BLUE WITH YELLOW BUTTON.png"
+            "value": "PATCHWORK ROSE.png"
         },
         {
             "trait_type": "Collar",
-            "value": "GREEN CHECKERED SCALLOPED.png"
+            "value": "YELLOW FRILLS.png"
         },
         {
             "trait_type": "Hair",
-            "value": "SILHOUETTE .png"
+            "value": "YELLOW LOOPY.png"
         },
         {
             "trait_type": "Face",
@@ -25,27 +25,27 @@
         },
         {
             "trait_type": "Face Paint",
-            "value": "WHITE WITH SKY ACCENT.png"
+            "value": "WHITE WITH DANDELION ACCENT.png"
         },
         {
             "trait_type": "Mouth",
-            "value": "RED LIP WARBLE.png"
+            "value": "FRECKLE FROWN.png"
         },
         {
             "trait_type": "Eyes",
-            "value": "GREEN DOTS.png"
+            "value": "RED AND YELLOW SUNS.png"
         },
         {
             "trait_type": "Nose",
-            "value": "RED HIGHLIGHT.png"
+            "value": "YELLOW HIGHLIGHT.png"
         },
         {
             "trait_type": "Hat",
-            "value": "YELLOW BAND COWBOY HAT.png"
+            "value": "WHITE POLKA DOT.png"
         },
         {
             "trait_type": "Acessory",
-            "value": "SMILEY STAR PIN.png"
+            "value": "CANDICE.png"
         }
     ]
 }

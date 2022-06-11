@@ -1,7 +1,7 @@
 {
-    "name": "willy nilly #11",
+    "name": "willy nilly #20",
     "description": "A WillyNilly clown.",
-    "image": "https://willynillies.herokuapp.com/imgs/11",
+    "image": "https://willynillies.herokuapp.com/imgs/20",
     "attributes": [
         {
             "trait_type": "Background",
@@ -9,43 +9,43 @@
         },
         {
             "trait_type": "Shirt",
-            "value": "BLUE WITH YELLOW BUTTON.png"
+            "value": "WHITE WITH BLUE PINSTRIPES.png"
         },
         {
             "trait_type": "Collar",
-            "value": "GREEN CHECKERED SCALLOPED.png"
+            "value": "BLUE BOWTIE.png"
         },
         {
             "trait_type": "Hair",
-            "value": "SILHOUETTE .png"
+            "value": "ROSE LOOPY.png"
         },
         {
             "trait_type": "Face",
-            "value": "ASH.png"
+            "value": "RED.png"
         },
         {
             "trait_type": "Face Paint",
-            "value": "WHITE WITH SKY ACCENT.png"
+            "value": "DANDELION.png"
         },
         {
             "trait_type": "Mouth",
-            "value": "RED LIP WARBLE.png"
+            "value": "GOLD TOOTH GREEN DIMPLES.png"
         },
         {
             "trait_type": "Eyes",
-            "value": "GREEN DOTS.png"
+            "value": "BLUE AND RED PAINT.png"
         },
         {
             "trait_type": "Nose",
-            "value": "RED HIGHLIGHT.png"
+            "value": "WHITE HIGHLIGHT.png"
         },
         {
             "trait_type": "Hat",
-            "value": "YELLOW BAND COWBOY HAT.png"
+            "value": "GREEN STRIPE CONE.png"
         },
         {
             "trait_type": "Acessory",
-            "value": "SMILEY STAR PIN.png"
+            "value": "KATANA.png"
         }
     ]
 }

@@ -1,27 +1,27 @@
 {
     "name": "willy nilly #16",
     "description": "A WillyNilly clown.",
-    "image": " ",
+    "image": "https://willynillies.herokuapp.com/imgs/16",
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "GRADIENT .png"
+            "value": "MINT WITH ROSE POLKA DOTS.png"
         },
         {
             "trait_type": "Shirt",
-            "value": "WHITE W_ BLUE PINSTRIPES.png"
+            "value": "LEMON.png"
         },
         {
             "trait_type": "Collar",
-            "value": "BLUE FRILLS.png"
+            "value": "PINK POLKA DOT SCALLOPED.png"
         },
         {
             "trait_type": "Hair",
-            "value": "YELLOW LOOPY.png"
+            "value": "WAVY STRANDS.png"
         },
         {
             "trait_type": "Face",
-            "value": "BLUE.png"
+            "value": "ASH.png"
         },
         {
             "trait_type": "Face Paint",
@@ -29,23 +29,23 @@
         },
         {
             "trait_type": "Mouth",
-            "value": "TONGUE W_ BLACK DIMPLES.png"
+            "value": "BLUE LAUGH LINES.png"
         },
         {
             "trait_type": "Eyes",
-            "value": "GREEN DOTS.png"
+            "value": "TEARY GREEN AND BLUE.png"
         },
         {
             "trait_type": "Nose",
-            "value": "SCUFFED BLUE.png"
+            "value": "SCUFFED YELLOW.png"
         },
         {
             "trait_type": "Hat",
-            "value": "MINT POLKA DOT.png"
+            "value": "GREEN AND BLUE PINSTRIPES.png"
         },
         {
             "trait_type": "Acessory",
-            "value": "SMILEY HEART PIN.png"
+            "value": "CANDICE.png"
         }
     ]
 }

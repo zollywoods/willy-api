@@ -1,7 +1,7 @@
 {
     "name": "willy nilly #4",
     "description": "A WillyNilly clown.",
-    "image": " ",
+    "image": "https://willynillies.herokuapp.com/imgs/4",
     "attributes": [
         {
             "trait_type": "Background",
@@ -9,31 +9,31 @@
         },
         {
             "trait_type": "Shirt",
-            "value": "YELLOW W_ RED BUTTONS.png"
+            "value": "SKY WITH BLUE ELLIPSES.png"
         },
         {
             "trait_type": "Collar",
-            "value": "GREEN CHECKERED SCALLOPED.png"
+            "value": "PINK FRILLS.png"
         },
         {
             "trait_type": "Hair",
-            "value": "SKY SPIKES.png"
+            "value": "RED LOOPY.png"
         },
         {
             "trait_type": "Face",
-            "value": "RED.png"
+            "value": "ASH.png"
         },
         {
             "trait_type": "Face Paint",
-            "value": "WHITE W_ SKY ACCENT.png"
+            "value": "WHITE WITH ROSE ACCENT.png"
         },
         {
             "trait_type": "Mouth",
-            "value": "YELLOW SMILEY.png"
+            "value": "GREEN SMILE.png"
         },
         {
             "trait_type": "Eyes",
-            "value": "BORED GREY.png"
+            "value": "GREEN DOTS.png"
         },
         {
             "trait_type": "Nose",
@@ -41,11 +41,11 @@
         },
         {
             "trait_type": "Hat",
-            "value": "GREEN BAND COWBOY HAT.png"
+            "value": "ROSE AND BLUE PINSTRIPES.png"
         },
         {
             "trait_type": "Acessory",
-            "value": "SMILEY HEART PIN.png"
+            "value": "STEVE.png"
         }
     ]
 }

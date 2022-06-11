@@ -1,23 +1,23 @@
 {
     "name": "willy nilly #10",
     "description": "A WillyNilly clown.",
-    "image": " ",
+    "image": "https://willynillies.herokuapp.com/imgs/10",
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "SKY TRIANGLES.png"
+            "value": "ROSE TRIANGLES.png"
         },
         {
             "trait_type": "Shirt",
-            "value": "GREEN W_ MINT AND YELLOW STRIPES.png"
+            "value": "BLACK WITH WAVY RED STRIPES.png"
         },
         {
             "trait_type": "Collar",
-            "value": "GREEN LOOPY.png"
+            "value": "GREY BOWTIE.png"
         },
         {
             "trait_type": "Hair",
-            "value": "DANDELION LOOPY.png"
+            "value": "RED LOOPY.png"
         },
         {
             "trait_type": "Face",
@@ -25,7 +25,7 @@
         },
         {
             "trait_type": "Face Paint",
-            "value": "WHITE.png"
+            "value": "MINT.png"
         },
         {
             "trait_type": "Mouth",
@@ -33,19 +33,19 @@
         },
         {
             "trait_type": "Eyes",
-            "value": "GREEN SPIKY.png"
+            "value": "LONG LASHES.png"
         },
         {
             "trait_type": "Nose",
-            "value": "HIGH SHINE GREEN.png"
+            "value": "CLASSIC YELLOW.png"
         },
         {
             "trait_type": "Hat",
-            "value": "WHITE STRIPE CONE.png"
+            "value": "ROSE POLKA DOT.png"
         },
         {
             "trait_type": "Acessory",
-            "value": "BOTTLE O\u2019 BOOZE.png"
+            "value": "DIAMOND EARRING.png"
         }
     ]
 }

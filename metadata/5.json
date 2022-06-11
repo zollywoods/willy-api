@@ -1,51 +1,51 @@
 {
     "name": "willy nilly #5",
     "description": "A WillyNilly clown.",
-    "image": " ",
+    "image": "https://willynillies.herokuapp.com/imgs/5",
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "BOLD BLACK AND WHITE STRIPES.png"
+            "value": "GRADIENT .png"
         },
         {
             "trait_type": "Shirt",
-            "value": "ROSE W_ GREY PINSTRIPES.png"
+            "value": "LEMON.png"
         },
         {
             "trait_type": "Collar",
-            "value": "BLUE LOOPY.png"
+            "value": "GREY FRILLS.png"
         },
         {
             "trait_type": "Hair",
-            "value": "YELLOW LOOPY.png"
+            "value": "RED LOOPY.png"
         },
         {
             "trait_type": "Face",
-            "value": "GREEN.png"
+            "value": "ASH.png"
         },
         {
             "trait_type": "Face Paint",
-            "value": "SIDEWAYS ROSE TO WHITE GRADIENT.png"
+            "value": "WHITE WITH ROSE ACCENT.png"
         },
         {
             "trait_type": "Mouth",
-            "value": "TONGUE W_ YELLOW DIMPLES.png"
+            "value": "GOLD TOOTH GREEN DIMPLES.png"
         },
         {
             "trait_type": "Eyes",
-            "value": "YELLOW AND GREEN HAPPY.png"
+            "value": "SQUINTY GREY.png"
         },
         {
             "trait_type": "Nose",
-            "value": "BLUE HIGHLIGHT.png"
+            "value": "ROSE EGG.png"
         },
         {
             "trait_type": "Hat",
-            "value": "MINT POLKA DOT.png"
+            "value": "YELLOW CHECKERS.png"
         },
         {
             "trait_type": "Acessory",
-            "value": "SMILEY HEART PIN.png"
+            "value": "POKER SET.png"
         }
     ]
 }

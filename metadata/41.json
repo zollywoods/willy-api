@@ -1,11 +1,11 @@
 {
-    "name": "willy nilly #11",
+    "name": "willy nilly #41",
     "description": "A WillyNilly clown.",
-    "image": "https://willynillies.herokuapp.com/imgs/11",
+    "image": "https://willynillies.herokuapp.com/imgs/41",
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "GRADIENT .png"
+            "value": "SKY TRIANGLES.png"
         },
         {
             "trait_type": "Shirt",
@@ -13,31 +13,31 @@
         },
         {
             "trait_type": "Collar",
-            "value": "GREEN CHECKERED SCALLOPED.png"
+            "value": "BLUE BOWTIE.png"
         },
         {
             "trait_type": "Hair",
-            "value": "SILHOUETTE .png"
+            "value": "GRASS LOOPY.png"
         },
         {
             "trait_type": "Face",
-            "value": "ASH.png"
+            "value": "BLUE.png"
         },
         {
             "trait_type": "Face Paint",
-            "value": "WHITE WITH SKY ACCENT.png"
+            "value": "WHITE.png"
         },
         {
             "trait_type": "Mouth",
-            "value": "RED LIP WARBLE.png"
+            "value": "RED FROWN GOLD TOOTH.png"
         },
         {
             "trait_type": "Eyes",
-            "value": "GREEN DOTS.png"
+            "value": "SQUINTY GREY.png"
         },
         {
             "trait_type": "Nose",
-            "value": "RED HIGHLIGHT.png"
+            "value": "CLASSIC BLUE.png"
         },
         {
             "trait_type": "Hat",
@@ -45,7 +45,7 @@
         },
         {
             "trait_type": "Acessory",
-            "value": "SMILEY STAR PIN.png"
+            "value": "DIAMOND EARRING.png"
         }
     ]
 }

@@ -1,51 +1,51 @@
 {
     "name": "willy nilly #8",
     "description": "A WillyNilly clown.",
-    "image": " ",
+    "image": "https://willynillies.herokuapp.com/imgs/8",
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "MINT W_ SKY ACCENTS.png"
+            "value": "MINT WITH SKY ACCENTS.png"
         },
         {
             "trait_type": "Shirt",
-            "value": "PATCHWORK ROSE.png"
+            "value": "SKY WITH BLUE ELLIPSES.png"
         },
         {
             "trait_type": "Collar",
-            "value": "BLUE FRILLS.png"
+            "value": "GREEN LOOPY.png"
         },
         {
             "trait_type": "Hair",
-            "value": "RED LOOPY.png"
+            "value": "GREY STRANDS.png"
         },
         {
             "trait_type": "Face",
-            "value": "YELLOW.png"
+            "value": "GREEN.png"
         },
         {
             "trait_type": "Face Paint",
-            "value": "DANDELION.png"
+            "value": "WHITE WITH MINT ACCENT.png"
         },
         {
             "trait_type": "Mouth",
-            "value": "SMILE BLUE DIMPLES.png"
+            "value": "FRECKLE FROWN.png"
         },
         {
             "trait_type": "Eyes",
-            "value": "MEAN SPIKY BLUE.png"
+            "value": "YELLOW EYES WITH TEARS.png"
         },
         {
             "trait_type": "Nose",
-            "value": "YELLOW HIGHLIGHT.png"
+            "value": "SCUFFED RED.png"
         },
         {
             "trait_type": "Hat",
-            "value": "GREEN BAND COWBOY HAT.png"
+            "value": "RED STRIPE CONE.png"
         },
         {
             "trait_type": "Acessory",
-            "value": "KATANA.png"
+            "value": "CANDICE.png"
         }
     ]
 }

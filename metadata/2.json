@@ -1,51 +1,51 @@
 {
     "name": "willy nilly #2",
     "description": "A WillyNilly clown.",
-    "image": " ",
+    "image": "https://willynillies.herokuapp.com/imgs/2",
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "SKY TRIANGLES.png"
+            "value": "GRADIENT .png"
         },
         {
             "trait_type": "Shirt",
-            "value": "KEY LIME.png"
+            "value": "BLUE WITH YELLOW WAVE.png"
         },
         {
             "trait_type": "Collar",
-            "value": "BLUE STRIPE SCALLOPED.png"
+            "value": "GREEN LOOPY.png"
         },
         {
             "trait_type": "Hair",
-            "value": "RED LOOPY.png"
+            "value": "GREY STRANDS.png"
         },
         {
             "trait_type": "Face",
-            "value": "YELLOW.png"
+            "value": "RED.png"
         },
         {
             "trait_type": "Face Paint",
-            "value": "MINT.png"
+            "value": "WHITE WITH SKY ACCENT.png"
         },
         {
             "trait_type": "Mouth",
-            "value": "MISSING TOOTH GREEN OUTLINE.png"
+            "value": "GOLD TOOTH BLUE AND GREEN DIMPLES.png"
         },
         {
             "trait_type": "Eyes",
-            "value": "RED AND YELLOW SUNS.png"
+            "value": "GREEN DOTS.png"
         },
         {
             "trait_type": "Nose",
-            "value": "SCUFFED GREEN.png"
+            "value": "HIGH SHINE RED.png"
         },
         {
             "trait_type": "Hat",
-            "value": "GREEN AND BLUE PINSTRIPES.png"
+            "value": "GREEN BAND COWBOY HAT.png"
         },
         {
             "trait_type": "Acessory",
-            "value": "SMILEY FACE PIN.png"
+            "value": "SMILEY HEART PIN.png"
         }
     ]
 }

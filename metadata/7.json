@@ -1,51 +1,51 @@
 {
     "name": "willy nilly #7",
     "description": "A WillyNilly clown.",
-    "image": " ",
+    "image": "https://willynillies.herokuapp.com/imgs/7",
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "MINT W_ SKY ACCENTS.png"
+            "value": "GRADIENT .png"
         },
         {
             "trait_type": "Shirt",
-            "value": "SKY W_ GREY TRIANGLES.png"
+            "value": "SKY WITH BLUE BUTTON.png"
         },
         {
             "trait_type": "Collar",
-            "value": "GREEN LOOPY.png"
+            "value": "RED LOOPY.png"
         },
         {
             "trait_type": "Hair",
-            "value": "SKY SPIKES.png"
+            "value": "YELLOW LOOPY.png"
         },
         {
             "trait_type": "Face",
-            "value": "ASH.png"
+            "value": "RED.png"
         },
         {
             "trait_type": "Face Paint",
-            "value": "WHITE W_ DANDELION ACCENT.png"
+            "value": "WHITE WITH ROSE ACCENT.png"
         },
         {
             "trait_type": "Mouth",
-            "value": "GREEN OVAL.png"
+            "value": "RED FROWN GOLD TOOTH.png"
         },
         {
             "trait_type": "Eyes",
-            "value": "YELLOW AND GREEN HAPPY.png"
+            "value": "YELLOW EYES WITH TEARS.png"
         },
         {
             "trait_type": "Nose",
-            "value": "WHITE HIGHLIGHT.png"
+            "value": "SCUFFED GREEN.png"
         },
         {
             "trait_type": "Hat",
-            "value": "WHITE STRIPE CONE.png"
+            "value": "WHITE BAND BOWLER HAT.png"
         },
         {
             "trait_type": "Acessory",
-            "value": "SMILEY FACE PIN.png"
+            "value": "POKER SET.png"
         }
     ]
 }

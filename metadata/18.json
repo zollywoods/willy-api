@@ -1,7 +1,7 @@
 {
     "name": "willy nilly #18",
     "description": "A WillyNilly clown.",
-    "image": " ",
+    "image": "https://willynillies.herokuapp.com/imgs/18",
     "attributes": [
         {
             "trait_type": "Background",
@@ -9,43 +9,43 @@
         },
         {
             "trait_type": "Shirt",
-            "value": "BLACK W_ WAVY RED STRIPES.png"
+            "value": "GREEN WITH  MINT AND YELLOW STRIPES.png"
         },
         {
             "trait_type": "Collar",
-            "value": "YELLOW BOWTIE.png"
+            "value": "BLUE LOOPY.png"
         },
         {
             "trait_type": "Hair",
-            "value": "WAVY STRANDS.png"
+            "value": "GREEN AND BLUE SPIKES.png"
         },
         {
             "trait_type": "Face",
-            "value": "ASH.png"
+            "value": "GREEN.png"
         },
         {
             "trait_type": "Face Paint",
-            "value": "WHITE.png"
+            "value": "ROSE.png"
         },
         {
             "trait_type": "Mouth",
-            "value": "RED LIP WARBLE.png"
+            "value": "YELLOW SMILEY.png"
         },
         {
             "trait_type": "Eyes",
-            "value": "SQUINTY GREY.png"
+            "value": "BLUE AND GREEN WITH TEARS.png"
         },
         {
             "trait_type": "Nose",
-            "value": "YELLOW HIGHLIGHT.png"
+            "value": "HIGH SHINE BLUE.png"
         },
         {
             "trait_type": "Hat",
-            "value": "WHITE BAND COWBOY HAT.png"
+            "value": "RED BAND TOP HAT.png"
         },
         {
             "trait_type": "Acessory",
-            "value": "SMILEY STAR PIN.png"
+            "value": "STEVE.png"
         }
     ]
 }

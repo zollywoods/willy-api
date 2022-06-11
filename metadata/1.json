@@ -1,27 +1,27 @@
 {
     "name": "willy nilly #1",
     "description": "A WillyNilly clown.",
-    "image": " ",
+    "image": "https://willynillies.herokuapp.com/imgs/1",
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "DANDELION W_ ROSE SQUARES.png"
+            "value": "GRADIENT .png"
         },
         {
             "trait_type": "Shirt",
-            "value": "KEY LIME.png"
+            "value": "SKY WITH BLUE ELLIPSES.png"
         },
         {
             "trait_type": "Collar",
-            "value": "GREEN WITH BLACK DOTS.png"
+            "value": "YELLOW FRILLS.png"
         },
         {
             "trait_type": "Hair",
-            "value": "GRASS LOOPY.png"
+            "value": "GREEN AND BLUE SPIKES.png"
         },
         {
             "trait_type": "Face",
-            "value": "ASH.png"
+            "value": "YELLOW.png"
         },
         {
             "trait_type": "Face Paint",
@@ -29,23 +29,23 @@
         },
         {
             "trait_type": "Mouth",
-            "value": "GOLD TOOTH GREEN DIMPLES.png"
+            "value": "SIMPLE RED LIPS.png"
         },
         {
             "trait_type": "Eyes",
-            "value": "YELLOW AND GREEN BUGGY.png"
+            "value": "RED AND YELLOW SUNS.png"
         },
         {
             "trait_type": "Nose",
-            "value": "SCUFFED BLUE.png"
+            "value": "BLUE HIGHLIGHT.png"
         },
         {
             "trait_type": "Hat",
-            "value": "YELLOW CHECKERS.png"
+            "value": "SKY POLKA DOT.png"
         },
         {
             "trait_type": "Acessory",
-            "value": "BOTTLE O\u2019 BOOZE.png"
+            "value": "POKER SET.png"
         }
     ]
 }

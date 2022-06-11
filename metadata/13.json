@@ -1,7 +1,7 @@
 {
     "name": "willy nilly #13",
     "description": "A WillyNilly clown.",
-    "image": " ",
+    "image": "https://willynillies.herokuapp.com/imgs/13",
     "attributes": [
         {
             "trait_type": "Background",
@@ -9,15 +9,15 @@
         },
         {
             "trait_type": "Shirt",
-            "value": "ROSE W_ GREY PINSTRIPES.png"
+            "value": "BLACK WITH WAVY YELLOW STRIPES.png"
         },
         {
             "trait_type": "Collar",
-            "value": "GREEN LOOPY.png"
+            "value": "GREEN CHECKERED SCALLOPED.png"
         },
         {
             "trait_type": "Hair",
-            "value": "BLUE SPIKES.png"
+            "value": "SILHOUETTE .png"
         },
         {
             "trait_type": "Face",
@@ -25,27 +25,27 @@
         },
         {
             "trait_type": "Face Paint",
-            "value": "WHITE W_ ROSE ACCENT.png"
+            "value": "WHITE WITH SKY ACCENT.png"
         },
         {
             "trait_type": "Mouth",
-            "value": "YELLOW SMILEY.png"
+            "value": "GOLD TOOTH GREEN DIMPLES.png"
         },
         {
             "trait_type": "Eyes",
-            "value": "BORED GREY.png"
+            "value": "GREEN SPIKY.png"
         },
         {
             "trait_type": "Nose",
-            "value": "SCUFFED RED.png"
+            "value": "WHITE HIGHLIGHT.png"
         },
         {
             "trait_type": "Hat",
-            "value": "WHITE STRIPE CONE.png"
+            "value": "WHITE BAND BOWLER HAT.png"
         },
         {
             "trait_type": "Acessory",
-            "value": "BOTTLE O\u2019 BOOZE.png"
+            "value": "SMILEY STAR PIN.png"
         }
     ]
 }

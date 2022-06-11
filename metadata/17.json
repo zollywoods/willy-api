@@ -1,7 +1,7 @@
 {
     "name": "willy nilly #17",
     "description": "A WillyNilly clown.",
-    "image": " ",
+    "image": "https://willynillies.herokuapp.com/imgs/17",
     "attributes": [
         {
             "trait_type": "Background",
@@ -9,43 +9,43 @@
         },
         {
             "trait_type": "Shirt",
-            "value": "LEMON.png"
+            "value": "PATCHWORK ROSE.png"
         },
         {
             "trait_type": "Collar",
-            "value": "GREY BOWTIE.png"
+            "value": "GREEN BOWTIE.png"
         },
         {
             "trait_type": "Hair",
-            "value": "SKY SPIKES.png"
+            "value": "DANDELION LOOPY.png"
         },
         {
             "trait_type": "Face",
-            "value": "ASH.png"
+            "value": "GREEN.png"
         },
         {
             "trait_type": "Face Paint",
-            "value": "WHITE W_ DANDELION ACCENT.png"
+            "value": "WHITE WITH MINT ACCENT.png"
         },
         {
             "trait_type": "Mouth",
-            "value": "SMILE BLUE DIMPLES.png"
+            "value": "GOLD TOOTH GREEN DIMPLES.png"
         },
         {
             "trait_type": "Eyes",
-            "value": "YELLOW TRIANGLES.png"
+            "value": "GREEN DOTS.png"
         },
         {
             "trait_type": "Nose",
-            "value": "SCUFFED RED.png"
+            "value": "GREEN HIGHLIGHT.png"
         },
         {
             "trait_type": "Hat",
-            "value": "GREEN AND BLUE PINSTRIPES.png"
+            "value": "RED BAND BOWLER HAT.png"
         },
         {
             "trait_type": "Acessory",
-            "value": "SMILEY FACE PIN.png"
+            "value": "AXE.png"
         }
     ]
 }
