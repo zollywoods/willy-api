@@ -12,7 +12,7 @@ const MyContract = require('./contract/MyContract.json');
 // var willyContract = wContract.at('b06292d8ce5b481cadf17d9b78370b54');
 let supply = 0;
 
-port =  80
+port =  process.env.PORT || 8000
 
 web3.eth.getBlockNumber().then((result) => {
     console.log("Latest Ethereum Block is ",result);
