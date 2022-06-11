@@ -13,6 +13,8 @@ const MyContract = require('./contract/MyContract.json');
 let supply = 0;
 
 port =  process.env.PORT || 8000
+const host = '0.0.0.0';
+
 
 web3.eth.getBlockNumber().then((result) => {
     console.log("Latest Ethereum Block is ",result);
@@ -44,7 +46,7 @@ app.get('/clowns/:id', function(req, res){
 //lets see
 
 // Create a server to listen at port 8080
-var server = app.listen(process.env.PORT || 5000, function(){
+var server = app.listen(process.env.PORT || 5000, host, function(){
     var host = server.address().address
     var port = server.address().port
     console.log("REST API demo app listening at 8080", host, port)
