@@ -32,6 +32,8 @@ web3.eth.getBlockNumber().then((result) => {
 
 // Endpoint to Get a list of users
 app.get('/clowns/:id', function(req, res){
+    run();
+
     console.log("the req params:  ", req.params['id'])
     fs.readFile("metadata" + "/" + req.params['id'] + ".json", 'utf8', function(err, data){
         if( req.params['id'] > (supply  - 1)){
@@ -46,6 +48,8 @@ app.get('/clowns/:id', function(req, res){
 })
 
 app.get(('/imgs/:id'), function(req, res){
+    run();
+
     console.log("the req params:  ", req.params['id'])
     fs.readFile( req.params['id'] + ".png", 'utf8', function(err, data){
         if( req.params['id'] > (supply  - 1)){
