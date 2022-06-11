@@ -1,0 +1,51 @@
+{
+    "name": "willy nilly #2",
+    "description": "A WillyNilly clown.",
+    "image": " ",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SKY TRIANGLES.png"
+        },
+        {
+            "trait_type": "Shirt",
+            "value": "KEY LIME.png"
+        },
+        {
+            "trait_type": "Collar",
+            "value": "BLUE STRIPE SCALLOPED.png"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "RED LOOPY.png"
+        },
+        {
+            "trait_type": "Face",
+            "value": "YELLOW.png"
+        },
+        {
+            "trait_type": "Face Paint",
+            "value": "MINT.png"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "MISSING TOOTH GREEN OUTLINE.png"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RED AND YELLOW SUNS.png"
+        },
+        {
+            "trait_type": "Nose",
+            "value": "SCUFFED GREEN.png"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "GREEN AND BLUE PINSTRIPES.png"
+        },
+        {
+            "trait_type": "Acessory",
+            "value": "SMILEY FACE PIN.png"
+        }
+    ]
+}

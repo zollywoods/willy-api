@@ -1,0 +1,51 @@
+{
+    "name": "willy nilly #3",
+    "description": "A WillyNilly clown.",
+    "image": " ",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "GRADIENT .png"
+        },
+        {
+            "trait_type": "Shirt",
+            "value": "WHITE W_ BLUE PINSTRIPES.png"
+        },
+        {
+            "trait_type": "Collar",
+            "value": "BLUE FRILLS.png"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "MINT LOOPY.png"
+        },
+        {
+            "trait_type": "Face",
+            "value": "ASH.png"
+        },
+        {
+            "trait_type": "Face Paint",
+            "value": "WHITE W_ SKY ACCENT.png"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "GOLD TOOTH GREEN DIMPLES.png"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "SQUINTY GREY.png"
+        },
+        {
+            "trait_type": "Nose",
+            "value": "BLUE HIGHLIGHT.png"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "MINT POLKA DOT.png"
+        },
+        {
+            "trait_type": "Acessory",
+            "value": "KATANA.png"
+        }
+    ]
+}

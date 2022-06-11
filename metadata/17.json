@@ -1,0 +1,51 @@
+{
+    "name": "willy nilly #17",
+    "description": "A WillyNilly clown.",
+    "image": " ",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "GRADIENT .png"
+        },
+        {
+            "trait_type": "Shirt",
+            "value": "LEMON.png"
+        },
+        {
+            "trait_type": "Collar",
+            "value": "GREY BOWTIE.png"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "SKY SPIKES.png"
+        },
+        {
+            "trait_type": "Face",
+            "value": "ASH.png"
+        },
+        {
+            "trait_type": "Face Paint",
+            "value": "WHITE W_ DANDELION ACCENT.png"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SMILE BLUE DIMPLES.png"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "YELLOW TRIANGLES.png"
+        },
+        {
+            "trait_type": "Nose",
+            "value": "SCUFFED RED.png"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "GREEN AND BLUE PINSTRIPES.png"
+        },
+        {
+            "trait_type": "Acessory",
+            "value": "SMILEY FACE PIN.png"
+        }
+    ]
+}

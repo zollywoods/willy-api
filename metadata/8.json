@@ -1,0 +1,51 @@
+{
+    "name": "willy nilly #8",
+    "description": "A WillyNilly clown.",
+    "image": " ",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MINT W_ SKY ACCENTS.png"
+        },
+        {
+            "trait_type": "Shirt",
+            "value": "PATCHWORK ROSE.png"
+        },
+        {
+            "trait_type": "Collar",
+            "value": "BLUE FRILLS.png"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "RED LOOPY.png"
+        },
+        {
+            "trait_type": "Face",
+            "value": "YELLOW.png"
+        },
+        {
+            "trait_type": "Face Paint",
+            "value": "DANDELION.png"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SMILE BLUE DIMPLES.png"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "MEAN SPIKY BLUE.png"
+        },
+        {
+            "trait_type": "Nose",
+            "value": "YELLOW HIGHLIGHT.png"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "GREEN BAND COWBOY HAT.png"
+        },
+        {
+            "trait_type": "Acessory",
+            "value": "KATANA.png"
+        }
+    ]
+}

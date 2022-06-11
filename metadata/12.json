@@ -1,0 +1,51 @@
+{
+    "name": "willy nilly #12",
+    "description": "A WillyNilly clown.",
+    "image": " ",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DANDELION W_ WAVY GRID.png"
+        },
+        {
+            "trait_type": "Shirt",
+            "value": "GREEN W_ MINT AND YELLOW STRIPES.png"
+        },
+        {
+            "trait_type": "Collar",
+            "value": "YELLOW SCALLOPED.png"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "BUZZ CUT.png"
+        },
+        {
+            "trait_type": "Face",
+            "value": "YELLOW.png"
+        },
+        {
+            "trait_type": "Face Paint",
+            "value": "WHITE W_ ROSE ACCENT.png"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "YELLOW SMILEY.png"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "BLUE AND GREEN W_ TEARS.png"
+        },
+        {
+            "trait_type": "Nose",
+            "value": "CLASSIC GREEN.png"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "WHITE POLKA DOT.png"
+        },
+        {
+            "trait_type": "Acessory",
+            "value": "POKER SET.png"
+        }
+    ]
+}

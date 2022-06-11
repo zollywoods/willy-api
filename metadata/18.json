@@ -1,0 +1,51 @@
+{
+    "name": "willy nilly #18",
+    "description": "A WillyNilly clown.",
+    "image": " ",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "GRADIENT .png"
+        },
+        {
+            "trait_type": "Shirt",
+            "value": "BLACK W_ WAVY RED STRIPES.png"
+        },
+        {
+            "trait_type": "Collar",
+            "value": "YELLOW BOWTIE.png"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "WAVY STRANDS.png"
+        },
+        {
+            "trait_type": "Face",
+            "value": "ASH.png"
+        },
+        {
+            "trait_type": "Face Paint",
+            "value": "WHITE.png"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "RED LIP WARBLE.png"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "SQUINTY GREY.png"
+        },
+        {
+            "trait_type": "Nose",
+            "value": "YELLOW HIGHLIGHT.png"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "WHITE BAND COWBOY HAT.png"
+        },
+        {
+            "trait_type": "Acessory",
+            "value": "SMILEY STAR PIN.png"
+        }
+    ]
+}

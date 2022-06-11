@@ -1,0 +1,51 @@
+{
+    "name": "willy nilly #15",
+    "description": "A WillyNilly clown.",
+    "image": " ",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "BOLD BLACK AND WHITE STRIPES.png"
+        },
+        {
+            "trait_type": "Shirt",
+            "value": "LADYBUG.png"
+        },
+        {
+            "trait_type": "Collar",
+            "value": "BLUE BOWTIE.png"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "SILHOUETTE .png"
+        },
+        {
+            "trait_type": "Face",
+            "value": "RED.png"
+        },
+        {
+            "trait_type": "Face Paint",
+            "value": "WHITE W_ SKY ACCENT.png"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "BLUE LAUGH LINES.png"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "BLUE AND GREEN W_ TEARS.png"
+        },
+        {
+            "trait_type": "Nose",
+            "value": "SCUFFED YELLOW.png"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "RED STRIPE CONE.png"
+        },
+        {
+            "trait_type": "Acessory",
+            "value": "SMILEY HEART PIN.png"
+        }
+    ]
+}

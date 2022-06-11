@@ -1,0 +1,51 @@
+{
+    "name": "willy nilly #11",
+    "description": "A WillyNilly clown.",
+    "image": " ",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "GRADIENT .png"
+        },
+        {
+            "trait_type": "Shirt",
+            "value": "BLACK W_ WAVY RED STRIPES.png"
+        },
+        {
+            "trait_type": "Collar",
+            "value": "BLUE STRIPE SCALLOPED.png"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "WAVY STRANDS.png"
+        },
+        {
+            "trait_type": "Face",
+            "value": "RED.png"
+        },
+        {
+            "trait_type": "Face Paint",
+            "value": "ROSE.png"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SMILE BLUE DIMPLES.png"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "YELLOW AND GREEN HAPPY.png"
+        },
+        {
+            "trait_type": "Nose",
+            "value": "GREEN HIGHLIGHT.png"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "YELLOW BAND COWBOY HAT.png"
+        },
+        {
+            "trait_type": "Acessory",
+            "value": "CANDICE.png"
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "name": "willy nilly #10",
+    "description": "A WillyNilly clown.",
+    "image": " ",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SKY TRIANGLES.png"
+        },
+        {
+            "trait_type": "Shirt",
+            "value": "GREEN W_ MINT AND YELLOW STRIPES.png"
+        },
+        {
+            "trait_type": "Collar",
+            "value": "GREEN LOOPY.png"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "DANDELION LOOPY.png"
+        },
+        {
+            "trait_type": "Face",
+            "value": "RED.png"
+        },
+        {
+            "trait_type": "Face Paint",
+            "value": "WHITE.png"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "GREEN OVAL.png"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GREEN SPIKY.png"
+        },
+        {
+            "trait_type": "Nose",
+            "value": "HIGH SHINE GREEN.png"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "WHITE STRIPE CONE.png"
+        },
+        {
+            "trait_type": "Acessory",
+            "value": "BOTTLE O\u2019 BOOZE.png"
+        }
+    ]
+}
