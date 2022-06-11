@@ -8,6 +8,8 @@ var provider = "https://rinkeby.infura.io/v3/b06292d8ce5b481cadf17d9b78370b54"
 var web3Provider = new Web3(provider);
 var web3 = new Web3(web3Provider);
 const MyContract = require('./contract/myContract.json');
+var path = require('path');
+
 // var willyContract = new web3.eth.Contract(MyContract,"0xdC7c07adf044090770F0199f60b910aAE93d0f35" );
 // var willyContract = wContract.at('b06292d8ce5b481cadf17d9b78370b54');
 let supply = 0;
@@ -43,16 +45,18 @@ app.get('/clowns/:id', function(req, res){
     });
 })
 
-app.get('/imgs/:id', function(req, res){
+app.get(('/imgs/:id'), function(req, res){
     console.log("the req params:  ", req.params['id'])
-    fs.readFile("imgs" + "/" + req.params['id'] + ".png", 'utf8', function(err, data){
+    fs.readFile( req.params['id'] + ".png", 'utf8', function(err, data){
         if( req.params['id'] > (supply  - 1)){
             const notRevealed = "this NFT has not been minted yet, check in later to see it"
             res.end(notRevealed); // you can also use res.send()
         }
         else{
-            // console.log(data);
-            res.end(data); // you can also use res.send()    
+            console.log(req.params['id']);
+            // res.sendFile("imgs", "/" + data);
+            res.sendFile(path.resolve( __dirname, 'imgs' , req.params['id'] + '.png'));
+
         }
     });
 })
