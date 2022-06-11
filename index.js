@@ -44,7 +44,7 @@ app.get('/clowns/:id', function(req, res){
 //lets see
 
 // Create a server to listen at port 8080
-var server = app.listen(port, function(){
+var server = app.listen(process.env.PORT || 5000, function(){
     var host = server.address().address
     var port = server.address().port
     console.log("REST API demo app listening at 8080", host, port)
