@@ -7,7 +7,7 @@ var Web3 = require('web3');
 var provider = "https://rinkeby.infura.io/v3/b06292d8ce5b481cadf17d9b78370b54"
 var web3Provider = new Web3(provider);
 var web3 = new Web3(web3Provider);
-const MyContract = require('./contract/MyContract.json');
+const MyContract = require('../contract/MyContract.json');
 // var willyContract = new web3.eth.Contract(MyContract,"0xdC7c07adf044090770F0199f60b910aAE93d0f35" );
 // var willyContract = wContract.at('b06292d8ce5b481cadf17d9b78370b54');
 let supply = 0;
@@ -46,7 +46,7 @@ app.get('/clowns/:id', function(req, res){
 //lets see
 
 // Create a server to listen at port 8080
-var server = app.listen((process.env.PORT || 5000), function(){
+var server = app.listen((process.env.PORT || 80), function(){
     var host = server.address().address
     var port = server.address().port
     console.log("REST API demo app listening at 8080", host, port)
