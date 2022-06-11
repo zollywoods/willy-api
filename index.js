@@ -43,6 +43,20 @@ app.get('/clowns/:id', function(req, res){
     });
 })
 
+app.get('/imgs/:id', function(req, res){
+    console.log("the req params:  ", req.params['id'])
+    fs.readFile("imgs" + "/" + req.params['id'] + ".png", 'utf8', function(err, data){
+        if( req.params['id'] > (supply  - 1)){
+            const notRevealed = "this NFT has not been minted yet, check in later to see it"
+            res.end(notRevealed); // you can also use res.send()
+        }
+        else{
+            // console.log(data);
+            res.end(data); // you can also use res.send()    
+        }
+    });
+})
+
 //lets see
 
 // Create a server to listen at port 8080
