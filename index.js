@@ -12,7 +12,7 @@ const MyContract = require('./contract/MyContract.json');
 // var willyContract = wContract.at('b06292d8ce5b481cadf17d9b78370b54');
 let supply = 0;
 
-port =  process.env.PORT || 8000
+port =  process.env.PORT || '0.0.0.0'
 const host = '0.0.0.0';
 
 
@@ -46,7 +46,7 @@ app.get('/clowns/:id', function(req, res){
 //lets see
 
 // Create a server to listen at port 8080
-var server = app.listen(process.env.PORT || 5000, host, function(){
+var server = app.listen(port, host, function(){
     var host = server.address().address
     var port = server.address().port
     console.log("REST API demo app listening at 8080", host, port)
