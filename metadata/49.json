@@ -9,11 +9,11 @@
         },
         {
             "trait_type": "Shirt",
-            "value": "BLACK WITH WAVY YELLOW STRIPES.png"
+            "value": "BLUE WITH YELLOW WAVE.png"
         },
         {
             "trait_type": "Collar",
-            "value": "PINK POLKA DOT SCALLOPED.png"
+            "value": "YELLOW SCALLOPED.png"
         },
         {
             "trait_type": "Hair",
@@ -21,31 +21,31 @@
         },
         {
             "trait_type": "Face",
-            "value": "ASH.png"
+            "value": "BLUE.png"
         },
         {
             "trait_type": "Face Paint",
-            "value": "WHITE WITH SKY ACCENT.png"
+            "value": "SIDEWAYS ROSE TO WHITE GRADIENT.png"
         },
         {
             "trait_type": "Mouth",
-            "value": "GREEN OVAL.png"
+            "value": "MISSING TOOTH GREEN OUTLINE.png"
         },
         {
             "trait_type": "Eyes",
-            "value": "YELLOW TRIANGLES.png"
+            "value": "GREEN SPIKY.png"
         },
         {
             "trait_type": "Nose",
-            "value": "HIGH SHINE BLUE.png"
+            "value": "SCUFFED YELLOW.png"
         },
         {
             "trait_type": "Hat",
-            "value": "RED BAND TOP HAT.png"
+            "value": "WHITE CHECKERS.png"
         },
         {
             "trait_type": "Acessory",
-            "value": "SMILEY HEART PIN.png"
+            "value": "NONE"
         }
     ]
 }

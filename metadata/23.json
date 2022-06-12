@@ -5,47 +5,47 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "GRADIENT .png"
+            "value": "BOLD BLACK AND WHITE STRIPES.png"
         },
         {
             "trait_type": "Shirt",
-            "value": "ROSE WITH  GREY PINSTRIPES.png"
+            "value": "BLACK WITH GREEN ZIGZAG.png"
         },
         {
             "trait_type": "Collar",
-            "value": "PINK BOWTIE.png"
+            "value": "YELLOW BOWTIE.png"
         },
         {
             "trait_type": "Hair",
-            "value": "GREEN AND BLUE SPIKES.png"
+            "value": "SILHOUETTE 2.png"
         },
         {
             "trait_type": "Face",
-            "value": "GREEN.png"
+            "value": "RED.png"
         },
         {
             "trait_type": "Face Paint",
-            "value": "WHITE WITH SKY ACCENT.png"
+            "value": "WHITE.png"
         },
         {
             "trait_type": "Mouth",
-            "value": "RED FROWN GOLD TOOTH.png"
+            "value": "TONGUE WITH YELLOW DIMPLES.png"
         },
         {
             "trait_type": "Eyes",
-            "value": "GREEN SPIKY.png"
+            "value": "YELLOW AND GREEN BUGGY.png"
         },
         {
             "trait_type": "Nose",
-            "value": "HIGH SHINE GREEN.png"
+            "value": "CLASSIC GREEN.png"
         },
         {
             "trait_type": "Hat",
-            "value": "RED STRIPE CONE.png"
+            "value": "WHITE CHECKERS.png"
         },
         {
             "trait_type": "Acessory",
-            "value": "SMILEY HEART PIN.png"
+            "value": "NONE"
         }
     ]
 }

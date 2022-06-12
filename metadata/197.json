@@ -1,0 +1,51 @@
+{
+    "name": "willy nilly #197",
+    "description": "A WillyNilly clown.",
+    "image": "https://willynillies.herokuapp.com/imgs/197",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "ROSE WITH SKY OVALS.png"
+        },
+        {
+            "trait_type": "Shirt",
+            "value": "SKY WITH GREY TRIANGLES.png"
+        },
+        {
+            "trait_type": "Collar",
+            "value": "YELLOW BOWTIE.png"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "RED LOOPY.png"
+        },
+        {
+            "trait_type": "Face",
+            "value": "RED.png"
+        },
+        {
+            "trait_type": "Face Paint",
+            "value": "WHITE.png"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "RED FROWN GOLD TOOTH.png"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "LONG LASHES.png"
+        },
+        {
+            "trait_type": "Nose",
+            "value": "ROSE EGG.png"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "ROSE AND BLUE PINSTRIPES.png"
+        },
+        {
+            "trait_type": "Acessory",
+            "value": "NONE"
+        }
+    ]
+}
