@@ -23,7 +23,7 @@ web3.eth.getBlockNumber().then((result) => {
   });
 
   async function run(){
-    var willyContract = new web3.eth.Contract(MyContract,"0xdC7c07adf044090770F0199f60b910aAE93d0f35" );
+    var willyContract = new web3.eth.Contract(MyContract,"0x1D71F878a1B1475763d3A89DaE0A0d350E620192" );
     supply = await willyContract.methods.totalSupply().call();
     console.log("here is the totalSupply: ", supply);
   }
