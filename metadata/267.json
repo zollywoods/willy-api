@@ -5,27 +5,27 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "BOLD BLACK AND WHITE STRIPES.png"
+            "value": "GRADIENT 5.png"
         },
         {
             "trait_type": "Shirt",
-            "value": "LADYBUG.png"
+            "value": "GREEN WITH  MINT AND YELLOW STRIPES.png"
         },
         {
             "trait_type": "Collar",
-            "value": "GREEN LOOPY.png"
+            "value": "GREEN CHECKERED SCALLOPED.png"
         },
         {
             "trait_type": "Hair",
-            "value": "BUZZ CUT.png"
+            "value": "SILHOUETTE 2.png"
         },
         {
             "trait_type": "Face",
-            "value": "ASH.png"
+            "value": "GREY.png"
         },
         {
             "trait_type": "Face Paint",
-            "value": "WHITE WITH DANDELION ACCENT.png"
+            "value": "WHITE.png"
         },
         {
             "trait_type": "Mouth",
@@ -33,11 +33,11 @@
         },
         {
             "trait_type": "Eyes",
-            "value": "GREEN SPIKY.png"
+            "value": "LONG LASHES.png"
         },
         {
             "trait_type": "Nose",
-            "value": "SCUFFED YELLOW.png"
+            "value": "CLASSIC GREEN.png"
         },
         {
             "trait_type": "Hat",

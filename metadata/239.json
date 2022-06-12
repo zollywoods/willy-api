@@ -5,15 +5,15 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "BOLD BLACK AND WHITE STRIPES.png"
+            "value": "SKY WITH WAVY GRID.png"
         },
         {
             "trait_type": "Shirt",
-            "value": "YELLOW WITH RED BUTTONS.png"
+            "value": "SKY WITH BLUE BUTTON.png"
         },
         {
             "trait_type": "Collar",
-            "value": "BLUE STRIPE SCALLOPED.png"
+            "value": "BLUE BOWTIE.png"
         },
         {
             "trait_type": "Hair",
@@ -25,15 +25,15 @@
         },
         {
             "trait_type": "Face Paint",
-            "value": "WHITE.png"
+            "value": "SKY.png"
         },
         {
             "trait_type": "Mouth",
-            "value": "RED FROWN GOLD TOOTH.png"
+            "value": "SIMPLE RED LIPS.png"
         },
         {
             "trait_type": "Eyes",
-            "value": "YELLOW AND GREEN BUGGY.png"
+            "value": "RED OVALS.png"
         },
         {
             "trait_type": "Nose",
@@ -41,7 +41,7 @@
         },
         {
             "trait_type": "Hat",
-            "value": "WHITE CHECKERS.png"
+            "value": "ROSE POLKA DOT.png"
         },
         {
             "trait_type": "Acessory",

@@ -5,47 +5,47 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "GRADIENT 2.png"
+            "value": "FLAMES.png"
         },
         {
             "trait_type": "Shirt",
-            "value": "SKY WITH BLUE ELLIPSES.png"
+            "value": "SLIME.png"
         },
         {
             "trait_type": "Collar",
-            "value": "GREY BOWTIE.png"
+            "value": "SPIKED COLLAR.png"
         },
         {
             "trait_type": "Hair",
-            "value": "YELLOW LOOPY.png"
+            "value": "LIGHTNING BOLTS.png"
         },
         {
             "trait_type": "Face",
-            "value": "BLUE.png"
+            "value": "DANDELION.png"
         },
         {
             "trait_type": "Face Paint",
-            "value": "ROSE.png"
+            "value": "HALFTONES.png"
         },
         {
             "trait_type": "Mouth",
-            "value": "GREEN SMILE.png"
+            "value": "CLOWN PILLED.png"
         },
         {
             "trait_type": "Eyes",
-            "value": "GREY GEARS.png"
+            "value": "FLOWERS.png"
         },
         {
             "trait_type": "Nose",
-            "value": "RED HIGHLIGHT.png"
+            "value": "EYEBALL.png"
         },
         {
             "trait_type": "Hat",
-            "value": "ROSE POLKA DOT.png"
+            "value": "STRAWBERRY CONE.png"
         },
         {
             "trait_type": "Acessory",
-            "value": "NONE"
+            "value": "CLOWN FACE PIN.png"
         }
     ]
 }

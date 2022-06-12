@@ -5,19 +5,19 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "MINT WITH ROSE POLKA DOTS.png"
+            "value": "WEB.png"
         },
         {
             "trait_type": "Shirt",
-            "value": "ROSE WITH  GREY PINSTRIPES.png"
+            "value": "RAINBOW.png"
         },
         {
             "trait_type": "Collar",
-            "value": "PINK BOWTIE.png"
+            "value": "GOLD CHAIN.png"
         },
         {
             "trait_type": "Hair",
-            "value": "SILHOUETTE 3.png"
+            "value": "DEVIL HORNS.png"
         },
         {
             "trait_type": "Face",
@@ -25,27 +25,27 @@
         },
         {
             "trait_type": "Face Paint",
-            "value": "WHITE.png"
+            "value": "HEARTS.png"
         },
         {
             "trait_type": "Mouth",
-            "value": "SIMPLE RED LIPS.png"
+            "value": "GOLD GRILLS.png"
         },
         {
             "trait_type": "Eyes",
-            "value": "MEAN SPIKY BLUE.png"
+            "value": "DICE.png"
         },
         {
             "trait_type": "Nose",
-            "value": "HIGH SHINE BLUE.png"
+            "value": "BALL.png"
         },
         {
             "trait_type": "Hat",
-            "value": "WHITE STRIPE CONE.png"
+            "value": "SCREWED.png"
         },
         {
             "trait_type": "Acessory",
-            "value": "NONE"
+            "value": "BOMB.png"
         }
     ]
 }

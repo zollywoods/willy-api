@@ -5,19 +5,19 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "GRADIENT 5.png"
+            "value": "GRADIENT 4.png"
         },
         {
             "trait_type": "Shirt",
-            "value": "BLUE WITH YELLOW WAVE.png"
+            "value": "WHITE WITH BLUE PINSTRIPES.png"
         },
         {
             "trait_type": "Collar",
-            "value": "PINK BOWTIE.png"
+            "value": "YELLOW SCALLOPED.png"
         },
         {
             "trait_type": "Hair",
-            "value": "WAVY STRANDS.png"
+            "value": "RED LOOPY.png"
         },
         {
             "trait_type": "Face",
@@ -25,27 +25,27 @@
         },
         {
             "trait_type": "Face Paint",
-            "value": "WHITE WITH ROSE ACCENT.png"
+            "value": "WHITE WITH SKY ACCENT.png"
         },
         {
             "trait_type": "Mouth",
-            "value": "SMILE BLUE DIMPLES.png"
+            "value": "RED FROWN GOLD TOOTH.png"
         },
         {
             "trait_type": "Eyes",
-            "value": "YELLOW AND GREEN BUGGY.png"
+            "value": "TEARY GREEN AND BLUE.png"
         },
         {
             "trait_type": "Nose",
-            "value": "GREEN HIGHLIGHT.png"
+            "value": "HIGH SHINE YELLOW.png"
         },
         {
             "trait_type": "Hat",
-            "value": "GREEN BAND COWBOY HAT.png"
+            "value": "WHITE CHECKERS.png"
         },
         {
             "trait_type": "Acessory",
-            "value": "BOTTLE O\u2019 BOOZE.png"
+            "value": "NONE"
         }
     ]
 }

@@ -5,47 +5,47 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "ROSE WITH SKY OVALS.png"
+            "value": "SUNSET MEADOW.png"
         },
         {
             "trait_type": "Shirt",
-            "value": "PATCHWORK ROSE.png"
+            "value": "MOON AND STARS.png"
         },
         {
             "trait_type": "Collar",
-            "value": "PINK BOWTIE.png"
+            "value": "SPIDERWEB.png"
         },
         {
             "trait_type": "Hair",
-            "value": "RED LOOPY.png"
+            "value": "FLOWERS.png"
         },
         {
             "trait_type": "Face",
-            "value": "RED.png"
+            "value": "SKY.png"
         },
         {
             "trait_type": "Face Paint",
-            "value": "ROSE.png"
+            "value": "DANDELION WITH ROSE POLKA DOTS.png"
         },
         {
             "trait_type": "Mouth",
-            "value": "SMILE BLUE DIMPLES.png"
+            "value": "HEART DIMPLES.png"
         },
         {
             "trait_type": "Eyes",
-            "value": "BLUE X\u2019S.png"
+            "value": "BUTTONS.png"
         },
         {
             "trait_type": "Nose",
-            "value": "HIGH SHINE RED.png"
+            "value": "POOL BALL 3.png"
         },
         {
             "trait_type": "Hat",
-            "value": "RED BAND COWBOY HAT.png"
+            "value": "BLUE AND YELLOW PINSTRIPE CONE.png"
         },
         {
             "trait_type": "Acessory",
-            "value": "NONE"
+            "value": "PITCHFORK.png"
         }
     ]
 }

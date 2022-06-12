@@ -5,15 +5,15 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "GRADIENT 2.png"
+            "value": "ROSE TRIANGLES.png"
         },
         {
             "trait_type": "Shirt",
-            "value": "GREEN WITH  MINT AND YELLOW STRIPES.png"
+            "value": "WHITE WITH BLUE PINSTRIPES.png"
         },
         {
             "trait_type": "Collar",
-            "value": "GREY BOWTIE.png"
+            "value": "BLUE FRILLS.png"
         },
         {
             "trait_type": "Hair",
@@ -21,7 +21,7 @@
         },
         {
             "trait_type": "Face",
-            "value": "BLUE.png"
+            "value": "GREEN.png"
         },
         {
             "trait_type": "Face Paint",
@@ -29,19 +29,19 @@
         },
         {
             "trait_type": "Mouth",
-            "value": "RED SMILEY.png"
+            "value": "BLUE LAUGH LINES.png"
         },
         {
             "trait_type": "Eyes",
-            "value": "GREY GEARS.png"
+            "value": "BORED GREY.png"
         },
         {
             "trait_type": "Nose",
-            "value": "CLASSIC YELLOW.png"
+            "value": "HIGH SHINE GREEN.png"
         },
         {
             "trait_type": "Hat",
-            "value": "RED STRIPE CONE.png"
+            "value": "YELLOW CHECKERS.png"
         },
         {
             "trait_type": "Acessory",
