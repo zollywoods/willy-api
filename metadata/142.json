@@ -5,19 +5,19 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "YELLOW PINSTRIPES.png"
+            "value": "ROSE HALFTONES.png"
         },
         {
             "trait_type": "Shirt",
-            "value": "PATCHWORK ROSE.png"
+            "value": "SKULLS.png"
         },
         {
             "trait_type": "Collar",
-            "value": "BLUE WITH PINK DOTS.png"
+            "value": "RAINBOW SPRINKLES.png"
         },
         {
             "trait_type": "Hair",
-            "value": "MINT AND GREEN STRIPES.png"
+            "value": "SUN AND MOON.png"
         },
         {
             "trait_type": "Face",
@@ -25,27 +25,27 @@
         },
         {
             "trait_type": "Face Paint",
-            "value": "DOWNWARD DANDELION TO WHITE GRADIENT.png"
+            "value": "SKY WITH DANDELION STRIPES.png"
         },
         {
             "trait_type": "Mouth",
-            "value": "RED LIP WARBLE.png"
+            "value": "FLOWER DIMPLES.png"
         },
         {
             "trait_type": "Eyes",
-            "value": "MEAN GREEN AND YELLOW.png"
+            "value": "CARD SUITS.png"
         },
         {
             "trait_type": "Nose",
-            "value": "SKY STRIPES.png"
+            "value": "FLOWER.png"
         },
         {
             "trait_type": "Hat",
-            "value": "HEART CONE.png"
+            "value": "VALENTINES CONE.png"
         },
         {
             "trait_type": "Acessory",
-            "value": "NONE"
+            "value": "BOMB.png"
         }
     ]
 }

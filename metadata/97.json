@@ -5,15 +5,15 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "ROSE WITH SKY OVALS.png"
+            "value": "GRADIENT 4.png"
         },
         {
             "trait_type": "Shirt",
-            "value": "SKY WITH GREY TRIANGLES.png"
+            "value": "SKY WITH BLUE BUTTON.png"
         },
         {
             "trait_type": "Collar",
-            "value": "YELLOW SCALLOPED.png"
+            "value": "GREEN CHECKERED SCALLOPED.png"
         },
         {
             "trait_type": "Hair",
@@ -21,27 +21,27 @@
         },
         {
             "trait_type": "Face",
-            "value": "GREY.png"
+            "value": "RED.png"
         },
         {
             "trait_type": "Face Paint",
-            "value": "ROSE.png"
+            "value": "WHITE WITH SKY ACCENT.png"
         },
         {
             "trait_type": "Mouth",
-            "value": "GREEN DIMPLES YELLOW LIP.png"
+            "value": "RED FROWN GOLD TOOTH.png"
         },
         {
             "trait_type": "Eyes",
-            "value": "LONG LASHES.png"
+            "value": "GREEN SPIKY.png"
         },
         {
             "trait_type": "Nose",
-            "value": "BLUE HIGHLIGHT.png"
+            "value": "WHITE HIGHLIGHT.png"
         },
         {
             "trait_type": "Hat",
-            "value": "WHITE STRIPE CONE.png"
+            "value": "GREEN BAND COWBOY HAT.png"
         },
         {
             "trait_type": "Acessory",

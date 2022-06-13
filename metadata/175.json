@@ -5,11 +5,11 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "YELLOW PINSTRIPES.png"
+            "value": "ROSE ARGYLE.png"
         },
         {
             "trait_type": "Shirt",
-            "value": "MINT PLAID.png"
+            "value": "GREY ARGYLE.png"
         },
         {
             "trait_type": "Collar",
@@ -17,31 +17,31 @@
         },
         {
             "trait_type": "Hair",
-            "value": "RED TIPPED TUFTS.png"
+            "value": "SKY AND BLUE STRIPES.png"
         },
         {
             "trait_type": "Face",
-            "value": "SKY.png"
+            "value": "ASH.png"
         },
         {
             "trait_type": "Face Paint",
-            "value": "SIDEWAYS SKY TO WHITE GRADIENT.png"
+            "value": "SIDEWAYS ROSE TO WHITE GRADIENT.png"
         },
         {
             "trait_type": "Mouth",
-            "value": "GREEN CHEEKS OPEN MOUTH.png"
+            "value": "OPEN MOUTH YELLOW OUTLINE.png"
         },
         {
             "trait_type": "Eyes",
-            "value": "SQUINTY RED DOT AND SPIKE.png"
+            "value": "GREEN DOT BROWS.png"
         },
         {
             "trait_type": "Nose",
-            "value": "SKY STRIPES.png"
+            "value": "ASH EGG.png"
         },
         {
             "trait_type": "Hat",
-            "value": "DIAMOND CONE.png"
+            "value": "ROSE BOW.png"
         },
         {
             "trait_type": "Acessory",

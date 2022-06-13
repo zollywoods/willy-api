@@ -5,47 +5,47 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "SKY WITH WAVY GRID.png"
+            "value": "YELLOW HALFTONES.png"
         },
         {
             "trait_type": "Shirt",
-            "value": "BLUE WITH YELLOW BUTTON.png"
+            "value": "MOON AND STARS.png"
         },
         {
             "trait_type": "Collar",
-            "value": "BLUE LOOPY.png"
+            "value": "YELLOW FLOWERS .png"
         },
         {
             "trait_type": "Hair",
-            "value": "GREY STRANDS.png"
+            "value": "YELLOW AND ROSE GRADIENT.png"
         },
         {
             "trait_type": "Face",
-            "value": "BLUE.png"
+            "value": "ROSE.png"
         },
         {
             "trait_type": "Face Paint",
-            "value": "WHITE WITH SKY ACCENT.png"
+            "value": "DANDELION WITH BIG MINT DOTS.png"
         },
         {
             "trait_type": "Mouth",
-            "value": "GOLD TOOTH BLUE AND GREEN DIMPLES.png"
+            "value": "BLOOD DRIPS.png"
         },
         {
             "trait_type": "Eyes",
-            "value": "GREEN DOTS.png"
+            "value": "BUTTONS.png"
         },
         {
             "trait_type": "Nose",
-            "value": "SCUFFED GREEN.png"
+            "value": "BUTTON.png"
         },
         {
             "trait_type": "Hat",
-            "value": "SKY POLKA DOT.png"
+            "value": "VALENTINES CONE.png"
         },
         {
             "trait_type": "Acessory",
-            "value": "NONE"
+            "value": "BOMB.png"
         }
     ]
 }

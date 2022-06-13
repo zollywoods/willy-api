@@ -5,27 +5,27 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "MINT ARGYLE.png"
+            "value": "YELLOW STRIPES ON SKY.png"
         },
         {
             "trait_type": "Shirt",
-            "value": "PATCHWORK MINT.png"
+            "value": "PATCHWORK ROSE.png"
         },
         {
             "trait_type": "Collar",
-            "value": "POINTY YELLOW.png"
+            "value": "BLUE WITH PINK DOTS.png"
         },
         {
             "trait_type": "Hair",
-            "value": "SKY TIPPED BLACK.png"
+            "value": "BLUE TIPPED BLACK TUFTS.png"
         },
         {
             "trait_type": "Face",
-            "value": "DANDELION.png"
+            "value": "SKY.png"
         },
         {
             "trait_type": "Face Paint",
-            "value": "DOWNWARD SKY TO WHITE GRADIENT.png"
+            "value": "SIDEWAYS DANDELION TO WHITE GRADIENT.png"
         },
         {
             "trait_type": "Mouth",
@@ -33,15 +33,15 @@
         },
         {
             "trait_type": "Eyes",
-            "value": "REAL MEAN RED AND YELLOW.png"
+            "value": "GREY WINK.png"
         },
         {
             "trait_type": "Nose",
-            "value": "DANDELION STRIPES.png"
+            "value": "ROSE EGG.png"
         },
         {
             "trait_type": "Hat",
-            "value": "CLUB CONE.png"
+            "value": "HEART CONE.png"
         },
         {
             "trait_type": "Acessory",

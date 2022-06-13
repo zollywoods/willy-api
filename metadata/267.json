@@ -5,15 +5,15 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "GRADIENT 5.png"
+            "value": "MINT WITH WAVY GRID.png"
         },
         {
             "trait_type": "Shirt",
-            "value": "GREEN WITH  MINT AND YELLOW STRIPES.png"
+            "value": "LADYBUG.png"
         },
         {
             "trait_type": "Collar",
-            "value": "GREEN CHECKERED SCALLOPED.png"
+            "value": "GREY BOWTIE.png"
         },
         {
             "trait_type": "Hair",
@@ -21,11 +21,11 @@
         },
         {
             "trait_type": "Face",
-            "value": "GREY.png"
+            "value": "YELLOW.png"
         },
         {
             "trait_type": "Face Paint",
-            "value": "WHITE.png"
+            "value": "ROSE.png"
         },
         {
             "trait_type": "Mouth",
@@ -33,15 +33,15 @@
         },
         {
             "trait_type": "Eyes",
-            "value": "LONG LASHES.png"
+            "value": "YELLOW AND GREEN BUGGY.png"
         },
         {
             "trait_type": "Nose",
-            "value": "CLASSIC GREEN.png"
+            "value": "CLASSIC RED.png"
         },
         {
             "trait_type": "Hat",
-            "value": "ROSE POLKA DOT.png"
+            "value": "DANDELION POLKA DOT.png"
         },
         {
             "trait_type": "Acessory",

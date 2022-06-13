@@ -5,15 +5,15 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "GRADIENT 1.png"
+            "value": "GRADIENT 4.png"
         },
         {
             "trait_type": "Shirt",
-            "value": "YELLOW WITH RED BUTTONS.png"
+            "value": "BLUE WITH YELLOW BUTTON.png"
         },
         {
             "trait_type": "Collar",
-            "value": "GREY LOOPY.png"
+            "value": "GREEN CHECKERED SCALLOPED.png"
         },
         {
             "trait_type": "Hair",
@@ -21,27 +21,27 @@
         },
         {
             "trait_type": "Face",
-            "value": "YELLOW.png"
+            "value": "GREY.png"
         },
         {
             "trait_type": "Face Paint",
-            "value": "MINT.png"
+            "value": "WHITE.png"
         },
         {
             "trait_type": "Mouth",
-            "value": "BLUE LAUGH LINES.png"
+            "value": "TONGUE WITH BLACK DIMPLES.png"
         },
         {
             "trait_type": "Eyes",
-            "value": "MEAN SPIKY BLUE.png"
+            "value": "YELLOW AND GREEN BUGGY.png"
         },
         {
             "trait_type": "Nose",
-            "value": "SCUFFED YELLOW.png"
+            "value": "CLASSIC GREEN.png"
         },
         {
             "trait_type": "Hat",
-            "value": "YELLOW BAND COWBOY HAT.png"
+            "value": "WHITE BAND COWBOY HAT.png"
         },
         {
             "trait_type": "Acessory",

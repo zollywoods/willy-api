@@ -5,47 +5,47 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "BOLD BLACK AND WHITE STRIPES.png"
+            "value": "STARS.png"
         },
         {
             "trait_type": "Shirt",
-            "value": "PATCHWORK ROSE.png"
+            "value": "SLIME.png"
         },
         {
             "trait_type": "Collar",
-            "value": "YELLOW W\u2019S.png"
+            "value": "RAINBOW.png"
         },
         {
             "trait_type": "Hair",
-            "value": "BLUE TIPPED BLACK TUFTS.png"
+            "value": "LIGHTNING BOLTS.png"
         },
         {
             "trait_type": "Face",
-            "value": "MINT.png"
+            "value": "ASH.png"
         },
         {
             "trait_type": "Face Paint",
-            "value": "SIDEWAYS SKY TO WHITE GRADIENT.png"
+            "value": "RAINBOW GRADIENT.png"
         },
         {
             "trait_type": "Mouth",
-            "value": "GREEN CHEEKS OPEN MOUTH.png"
+            "value": "RAINBOW TEETH.png"
         },
         {
             "trait_type": "Eyes",
-            "value": "YELLOW AND BLUE SAD.png"
+            "value": "HYPNO GLASSES.png"
         },
         {
             "trait_type": "Nose",
-            "value": "ASH EGG.png"
+            "value": "RAINBOW.png"
         },
         {
             "trait_type": "Hat",
-            "value": "SPADE CONE.png"
+            "value": "LITTLE BROTHER.png"
         },
         {
             "trait_type": "Acessory",
-            "value": "NONE"
+            "value": "PITCHFORK.png"
         }
     ]
 }
